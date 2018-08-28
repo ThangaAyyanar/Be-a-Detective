@@ -5,8 +5,8 @@ which provide you access to the basic stuff in the enemy network
 
 ### Login credentials for guest account
 
-Username : level00
-Password : level00
+* Username : level00
+* Password : level00
 
 Your Mission is to infiltrate into "flag00" account and get the secret key
 
